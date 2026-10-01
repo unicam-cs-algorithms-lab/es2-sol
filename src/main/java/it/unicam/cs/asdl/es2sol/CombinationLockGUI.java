@@ -1,4 +1,4 @@
-package it.unicam.cs.asdl2526.es2sol;
+package it.unicam.cs.asdl.es2sol;
 
 import java.awt.Color;
 import javax.swing.JOptionPane;
